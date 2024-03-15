@@ -6,9 +6,9 @@
   - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/)
 - <b>Java</b>
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/)
-  - [Operating System Simulator]() <b><i>(In Progress)</b></i>
-- <b>Android App</i>(Android Studio, Kotlin, Local Storage)
-  - [Location-Privacy Aware Driving Habit Detection Mobile App]() <b><i>(In Progress)</b></i>
+  - [Operating System Simulator] <b><i>(In Progress)</b></i>
+- <b>Android App (Android Studio, Kotlin, Local Storage)
+  - [Location-Privacy Aware Driving Habit Detection Mobile App] <b><i>(In Progress)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
