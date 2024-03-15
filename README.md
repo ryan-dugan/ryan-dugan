@@ -1,5 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a> and <a href="https://www.linkedin.com/in/ryandugan1/">Student and Tech Enthusiast</a>
-a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a> and <a href="https://www.linkedin.com/in/ryandugan1/">Student and Tech Enthusiast</a></h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
@@ -7,9 +6,9 @@ a></h1>
   - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/)
 - <b>Java</b>
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/)
-  - [Operating System Simulator](https://github.com/ryan-dugan/) <b><i>(In Progress)</b></i>
-- <b>Android App</i>
-  - [Location-Privacy Aware Driving Habit Detection Mobile App](https://github.com/ryan-dugan/) <b><i>(In Progress)</b></i>
+  - [Operating System Simulator]() <b><i>(In Progress)</b></i>
+- <b>Android App</i>(Android Studio, Kotlin, Local Storage)
+  - [Location-Privacy Aware Driving Habit Detection Mobile App]() <b><i>(In Progress)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
