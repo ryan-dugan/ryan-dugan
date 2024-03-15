@@ -3,8 +3,8 @@
 <h2>👨‍💻 Coding Projects & Coursework:</h2>
 
 - <b>Programming Exercises Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos)
-  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises)
+  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
+  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 - <b>Java</b>
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/Shank-Interpreter)
   - Operating System Simulator <b><i>(In Progress)</b></i>
