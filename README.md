@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Coding Projects & Coursework:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/)
+- <b>Programming Exercises Practice</b>
+  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos)
+  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises)
 - <b>Java</b>
-  - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/)
+  - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/Shank-Interpreter)
   - Operating System Simulator <b><i>(In Progress)</b></i>
 - <b>Android App (Android Studio, Kotlin, Local Storage)</b>
   - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
