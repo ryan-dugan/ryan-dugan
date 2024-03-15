@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a> and <a href="https://www.linkedin.com/in/ryandugan1/">Student and Tech Enthusiast</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a>, <a href="https://www.linkedin.com/in/ryandugan1/">Student</a>, <a href="https://twitter.com/ryan_dugann">Tech Enthusiast</a></h1>
 
 <h2>👨‍💻 Coding Projects & Coursework:</h2>
 
