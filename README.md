@@ -6,10 +6,13 @@
   - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
   - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 - <b>Java</b>
-  - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/Shank-Interpreter)
+  - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
   - Operating System Simulator <b><i>(In Progress)</b></i>
+- <b>Python</b>
+  - [The Anonymizer - Socket Programming and Reliable Data Transfer](https://github.com/ryan-dugan/anonymizer)
 - <b>Android App (Android Studio, Kotlin, Local Storage)</b>
   - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
+
 
 
 <h2> 🤳 Connect with me:</h2>
