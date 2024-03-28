@@ -9,7 +9,7 @@
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
   - Operating System Simulator <b><i>(In Progress)</b></i>
 - <b>Python</b>
-  - [The Anonymizer - Socket Programming and Reliable Data Transfer](https://github.com/ryan-dugan/anonymizer)
+  - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
 - <b>Android App (Android Studio, Kotlin, Local Storage)</b>
   - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
 
