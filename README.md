@@ -10,7 +10,7 @@
   - Multithreaded Operating System Simulator <b><i>(In Progress)</b></i>
 - <b>Python</b>
   - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
-- <b>Android App (Android Studio, Kotlin, Local Storage)</b>
+- <b>Android App (Android Studio, Kotlin, SQLite)</b>
   - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
 
 
