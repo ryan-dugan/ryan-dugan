@@ -7,7 +7,7 @@
   - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 - <b>Java</b>
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
-  - Operating System Simulator <b><i>(In Progress)</b></i>
+  - Multithreaded Operating System Simulator <b><i>(In Progress)</b></i>
 - <b>Python</b>
   - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
 - <b>Android App (Android Studio, Kotlin, Local Storage)</b>
