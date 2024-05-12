@@ -6,8 +6,8 @@
   - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
   - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 - <b>Java</b>
+  - [Multithreaded Operating System Simulator](https://github.com/ryan-dugan/os_simulator)
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
-  - Multithreaded Operating System Simulator <b><i>(In Progress)</b></i>
 - <b>Python</b>
   - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
 - <b>Android App (Android Studio, Kotlin, SQLite)</b>
