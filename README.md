@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ryan
 
-I'm a **programmer**, **IT technician**, and **tech enthusiast** with a passion for building clean, functional software—from static websites to system-level simulators. I enjoy tackling complex problems and continuously learning new technologies.
+I'm a **Web Developer & Designer** and **IT Technician** with a focus on building modern, responsive websites and solving real-world technical problems. On the IT side, I work with tools like **Azure**, manage **virtual machines**, handle **helpdesk support**, and troubleshoot **networked hardware**—skills that complement my programming work and projects.
+
+I enjoy creating clean, functional solutions—whether that's a static site for a business or a multithreaded OS simulator.
 
 ---
 
