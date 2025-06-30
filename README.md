@@ -1,10 +1,11 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a>, <a href="https://www.linkedin.com/in/ryandugan1/">Student</a>, <a href="https://twitter.com/ryan_dugann">Tech Enthusiast</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a>, <a href="https://www.linkedin.com/in/ryandugan1/">IT Technician</a>, <a href="https://twitter.com/ryan_dugann">Tech Enthusiast</a>, and Web Developer.</h1>
+
+<h2>🌐 Webdev:</h2>
+- **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)** – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form
+
 
 <h2>👨‍💻 Coding Projects & Coursework:</h2>
 
-- <b>Programming Exercises Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
-  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 - <b>Java</b>
   - [Multithreaded Operating System Simulator](https://github.com/ryan-dugan/os_simulator)
   - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
@@ -12,6 +13,12 @@
   - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
 - <b>Android App (Android Studio, Kotlin, SQLite)</b>
   - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
+
+<h2>✍️ Coding Practice:</h2>
+
+- <b>Programming Exercises Practice</b>
+  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
+  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
 
 
 
