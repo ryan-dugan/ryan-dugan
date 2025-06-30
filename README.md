@@ -1,7 +1,9 @@
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a>, <a href="https://www.linkedin.com/in/ryandugan1/">IT Technician</a>, <a href="https://twitter.com/ryan_dugann">Tech Enthusiast</a>, and Web Developer.</h1>
 
 <h2>🌐 Webdev:</h2>
-- **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)** – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form
+<ul>
+  <li><b><a href="https://ryan-dugan.github.io/properlyassembled">Properly Assembled – Business Website</a></b> – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form. <a href="https://github.com/ryan-  dugan/properlyassembled">Repo</a></li>
+</ul>
 
 
 <h2>👨‍💻 Coding Projects & Coursework:</h2>
