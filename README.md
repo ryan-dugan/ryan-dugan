@@ -1,33 +1,48 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryan-dugan">Programmer</a>, <a href="https://www.linkedin.com/in/ryandugan1/">IT Technician</a>, <a href="https://twitter.com/ryan_dugann">Tech Enthusiast</a>, and Web Developer.</h1>
+# 👋 Hi, I'm Ryan
 
-<h2>🌐 Webdev:</h2>
-<ul>
-  <li><b><a href="https://ryan-dugan.github.io/properlyassembled">Properly Assembled – Business Website</a></b> – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form. <a href="https://github.com/ryan-dugan/properlyassembled">Repo</a></li>
-</ul>
+I'm a **programmer**, **IT technician**, and **tech enthusiast** with a passion for building clean, functional software—from static websites to system-level simulators. I enjoy tackling complex problems and continuously learning new technologies.
 
+---
 
-<h2>👨‍💻 Coding Projects & Coursework:</h2>
+## 🌐 Web Development
 
-- <b>Java</b>
-  - [Multithreaded Operating System Simulator](https://github.com/ryan-dugan/os_simulator)
-  - [Interpreter for the Shank Programming Language](https://github.com/ryan-dugan/shank-interpreter)
-- <b>Python</b>
-  - [The Anonymizer (Socket Programming and Reliable Data Transfer)](https://github.com/ryan-dugan/anonymizer)
-- <b>Android App (Android Studio, Kotlin, SQLite)</b>
-  - Location-Privacy Aware Driving Habit Detection Mobile App <b><i>(In Progress)</b></i>
+- **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)**  
+  A custom-built static site using HTML/CSS/JS. Features responsive design, animations, and a working contact form.  
+  🔗 [View Code](https://github.com/ryan-dugan/properlyassembled)
 
-<h2>✍️ Coding Practice:</h2>
+---
 
-- <b>Programming Exercises Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos) <b><i>(In Progress)</b></i>
-  - [Miscellaneous Programming Exercises in Python](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises) <b><i>(In Progress)</b></i>
+## 👨‍💻 Projects & Coursework
 
+### Java
+- **[Multithreaded Operating System Simulator](https://github.com/ryan-dugan/os_simulator)**  
+  Simulates basic OS components using threads and process scheduling.
+- **[Shank Language Interpreter](https://github.com/ryan-dugan/shank-interpreter)**  
+  A full interpreter for a custom-designed language, including parsing and execution.
 
+### Python
+- **[The Anonymizer](https://github.com/ryan-dugan/anonymizer)**  
+  A network privacy tool built with sockets, implementing reliable data transfer.
 
-<h2> 🤳 Connect with me:</h2>
+### Android (Kotlin, Android Studio, SQLite)
+- **Driving Habit Detection App** *(In Progress)*  
+  A privacy-aware mobile app that detects driving behavior using location data.
 
-[<img align="left" alt="Ryan Dugan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ryan Dugan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[twitter]: https://twitter.com/ryan_dugann
-[linkedin]: https://www.linkedin.com/in/ryandugan1/
+## 📘 Coding Practice
+
+- **[Python Data Structures & Algorithms](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-algos)** *(In Progress)*  
+  Practice problems to sharpen algorithmic thinking.
+- **[Miscellaneous Python Exercises](https://github.com/ryan-dugan/Programming-Practice/tree/main/python-exercises)** *(In Progress)*
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ryandugan1/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ryan_dugann-1DA1F2?logo=twitter&style=flat)](https://twitter.com/ryan_dugann)
+
+---
+
+> 💬 *“Code is not just what a computer understands, but what a human maintains.”*
