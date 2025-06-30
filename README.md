@@ -2,7 +2,7 @@
 
 <h2>🌐 Webdev:</h2>
 <ul>
-  <li><b><a href="https://ryan-dugan.github.io/properlyassembled">Properly Assembled – Business Website</a></b> – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form. <a href="https://github.com/ryan-  dugan/properlyassembled">Repo</a></li>
+  <li><b><a href="https://ryan-dugan.github.io/properlyassembled">Properly Assembled – Business Website</a></b> – Custom-built static site (HTML/CSS/JS), responsive design, animations, and functional contact form. <a href="https://github.com/ryan-dugan/properlyassembled">Repo</a></li>
 </ul>
 
 
