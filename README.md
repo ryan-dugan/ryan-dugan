@@ -6,14 +6,25 @@ I enjoy creating clean, functional solutions—whether that's a static site for 
 
 ---
 
-## 🌐 Web Development
+## 🚀 My Business: CLRCACHE Solutions (In Progress)
 
-- **[CLRCACHE Solutions – My Business Website *(In Progress)*](https://ryan-dugan.github.io/clrcachesolutions)**  
-  Official website for CLRCACHE Solutions. Hand-coded static site showcasing web development services using vanilla HTML, CSS, and JS.  
-  🔗 [View Code](https://github.com/ryan-dugan/clrcachesolutions)
-- **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)**  
-  A custom-built static site using HTML/CSS/JS. Features responsive design, animations, and a working contact form.  
-  🔗 [View Code](https://github.com/ryan-dugan/properlyassembled)
+I am the founder and lead developer at CLRCACHE Solutions. I create custom-coded, high-performance websites for businesses and individuals with a focus on clean, efficient code and user-friendly design.
+
+**[➡️ View the Live Demo on GitHub Pages](https://ryan-dugan.github.io/clrcachesolutions)**
+
+This site is a hand-coded demonstration of my skills in HTML, CSS, and JavaScript, and it outlines the web development services I will be offering. As it's a work in progress, I am actively developing new features.
+
+🔗 [View the Source Code](https://github.com/ryan-dugan/clrcachesolutions)
+
+---
+
+## 📂 My Work
+
+Here are some examples of websites I have built:
+
+-   **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)**
+    -   A custom-built static site using HTML/CSS/JS. Features a fully responsive design, subtle animations, and an integrated, functional contact form.
+    -   🔗 [View Code](https://github.com/ryan-dugan/properlyassembled)
 
 ---
 
