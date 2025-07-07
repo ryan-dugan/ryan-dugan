@@ -9,7 +9,7 @@ I enjoy creating clean, functional solutions—whether that's a static site for 
 ## 🌐 Web Development
 
 - **[CLRCACHE Solutions – My Business Website](https://ryan-dugan.github.io/properlyassembled)**  
-  Official website for CLRCACHE Solutions. Hand-coded static site showcasing web development services using vanilla HTML, CSS, and JS.
+  Official website for CLRCACHE Solutions. Hand-coded static site showcasing web development services using vanilla HTML, CSS, and JS.  
   🔗 [View Code](https://github.com/ryan-dugan/clrcachesolutions)
 - **[Properly Assembled – Business Website](https://ryan-dugan.github.io/properlyassembled)**  
   A custom-built static site using HTML/CSS/JS. Features responsive design, animations, and a working contact form.  
