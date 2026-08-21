@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan Dugan
+# 👋 Hi, I'm Ryan
 
 **IT Technician** with hands-on systems administration, cloud, and infrastructure experience — currently building toward network/systems administration roles.
 
