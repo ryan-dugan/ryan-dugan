@@ -16,7 +16,7 @@ Day-to-day I work in **Microsoft 365 admin center, Azure/Entra ID, Intune, Power
 
 ## 🖥️ Professional Experience
 
-**IT Technician — Homestead Funding Corp.** *(Nov 2024–Present)*
+**IT Technician — ** *(Nov 2024–Present)*
 Internal IT support and infrastructure projects across a Microsoft 365 environment.
 
 - **Visitor Management System** — Designed and deployed a supervised iPad kiosk system + custom Power Apps sign-in workflow across 12 branch locations (Apple Business Manager, Intune, Power Apps)
