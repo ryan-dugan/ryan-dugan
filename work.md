@@ -1,4 +1,4 @@
-# Professional Experience — Homestead Funding Corp.
+# Professional Experience
 
 **IT Technician** *(Nov 2024–Present)*
 Internal IT support and infrastructure projects across a Microsoft 365 environment. This work is internal/proprietary, so there's no public repo — described here for context.
